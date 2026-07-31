@@ -1,0 +1,7 @@
+interface:
+  display_name: "项目共享记忆"
+  short_description: "在当前项目目录中部署轻量跨对话共享记忆和历史回写自动机制功能"
+  default_prompt: "使用 $project-shared-memory 为当前项目初始化本地共享记忆。"
+
+policy:
+  allow_implicit_invocation: true
