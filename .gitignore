@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+/.project-memory.json
+/.project-memory.lock
+/.project-memory-backups/
+/.project-memory-candidates/
+/.project-memory-tmp-*
+/AGENTS.md
+/PROJECT_CONTEXT.md
+/task_plan.md
+/findings.md
+/progress.md
